@@ -39,6 +39,7 @@ beautifulsoup4 = "^4.12.3"
 pydub = "^0.25.1"
 bitsandbytes = "0.42.0"
 docarray = "^0.40.0"
+wordcloud = "^1.9.3"
 
 
 [build-system]
