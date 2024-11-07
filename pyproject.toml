@@ -40,6 +40,11 @@ pydub = "^0.25.1"
 bitsandbytes = "0.42.0"
 docarray = "^0.40.0"
 wordcloud = "^1.9.3"
+bertviz = "^1.4.0"
+umap-learn = "^0.5.7"
+seaborn = "^0.13.2"
+evaluate = "^0.4.3"
+huggingface-hub = "^0.26.2"
 
 
 [build-system]
